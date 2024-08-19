@@ -1,2 +1,0 @@
-Note:
-While Running the Login.java and AllTestCases.java, make sure that the Computer mouse is not hovered on the screen otherwise it may lead to failure of the Test case, as we have used the mouse hovering (Actions class functions).
