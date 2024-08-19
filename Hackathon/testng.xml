@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Regression Test">
+    <classes>
+      <class name="com.hackathon.pack.Login"/>
+      <class name="com.hackathon.pack.CabBooking"/>
+      <class name="com.hackathon.pack.HotelBooking"/>
+      <class name="com.hackathon.pack.GiftCard"/>
+    <class name="com.hackathon.pack.AllTestCases"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
