@@ -1,6 +1,6 @@
 # 🧪 Automation Testing Projects (Hands-on Training and Hackathon)
 
-Welcome to my Automation Testing Projects repository! This repository showcases a collection of hands-on projects I've completed as part of my training in automation testing. These projects were developed using various frameworks and tools, including Selenium, Cucumber, and more, with guidance from the Way2Automation course on Udemy. Additionally, it features a hackathon project focused on web application automation.
+Welcome to my Automation Testing Projects repository! This repository showcases a collection of hands-on projects I've completed as part of my training in automation testing. These projects were developed using various frameworks and tools, including Selenium, Cucumber, and more, with guidance from the Way2Automation course on Udemy. Additionally, it features my hackathon project focused on web application automation.
 
 ## 🚀 Projects Overview
 
